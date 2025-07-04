@@ -48,7 +48,20 @@
 
 ## Alat Pengembangan & Pengujian:
 
-- Postman: Digunakan untuk mencoba berbagai metode HTTP (GET, POST, PUT, DELETE) pada REST API.
+- Postmant: Digunakan untuk mencoba berbagai metode HTTP (GET, POST, PUT, DELETE) pada REST API.
+
+  ## Pengujian Posmant
+    ## - Get (Abmil Data)
+    ![Cuplikan layar 2025-06-27 054621](https://github.com/user-attachments/assets/c9f07361-b68c-4560-8baa-6ef337069867)
+
+    ## - Post (Menambah Data)
+    ![Cuplikan layar 2025-07-01 102947](https://github.com/user-attachments/assets/332a1b6b-1573-4a42-b37e-82014a77bf07)
+
+    ## - Put (Mengubah Data)
+    ![Cuplikan layar 2025-06-28 201028](https://github.com/user-attachments/assets/6828b994-94df-4948-8e55-562a73b0466f)
+
+    ## - Delete (Menghapus Data)
+    ![Cuplikan layar 2025-06-28 201225](https://github.com/user-attachments/assets/6ec17816-651d-4ba5-aee0-c8debbecd12c)
 
 - VS Code / Editor lainnya: Untuk menulis dan mengelola kode program.
 
