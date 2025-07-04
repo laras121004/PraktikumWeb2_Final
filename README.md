@@ -7,6 +7,8 @@
 |Kelas|TI.23.A6|
 |Mata Kulial|Pemograman Web 2|
 
+Link Youtube : https://youtu.be/ZIBz8MYU5Qc 
+
 # 📋Daftar Praktikum
 
 |No|Judul Praktikum|Deskripsi Singkat|
@@ -74,13 +76,51 @@ Aplikasi ini merupakan sistem berbasis web yang dibangun menggunakan CodeIgniter
 
 # 🔧 Fitur-fitur Utama:
 ### Home (User)
+
+![image](https://github.com/user-attachments/assets/d8ea9a5e-c343-48d7-964b-4a15457eda73)
+
 ### Artikel (User)
+
+![image](https://github.com/user-attachments/assets/1e9bfdad-dc04-49cc-a68a-ad1928624946)
+
+![image](https://github.com/user-attachments/assets/e0d6e4d8-24ae-4557-b30d-90afe36a25be)
+
 ### Artikel Detail (User)
+
+![image](https://github.com/user-attachments/assets/98557564-04d1-4120-a12c-f722e6503e1f)
+
 ### Aboute (User)
+
+![image](https://github.com/user-attachments/assets/cc95383e-1936-4d88-bef8-629ea8ccd0be)
+
 ### kontak (User)
+
+![image](https://github.com/user-attachments/assets/42b0f811-558d-4456-befb-63ef9eefda29)
+
 ### Login (Admin)
+
+![image](https://github.com/user-attachments/assets/01757cb3-85e6-4ad3-b4c6-852ebcd80f1f)
+
 ### Artikel (Admin)
+
+![image](https://github.com/user-attachments/assets/d538a9a3-7660-4afa-8fc7-4115e5a77345)
+
 ### Tambah Artikel (Admin)
+
+![image](https://github.com/user-attachments/assets/e59018ac-b844-470f-9ce4-dad5bf9a1e14)
+
 ### Edit Artikel (Admin)
+
+![image](https://github.com/user-attachments/assets/1e4abe83-e2a7-4dce-bfbb-bd3a6a6bb575)
+
 ### Hapus Artikel (Admin)
+
+![image](https://github.com/user-attachments/assets/114751b6-40fd-42be-a2f4-8bf5b46b585f)
+
 ### VueJS APP
+
+![image](https://github.com/user-attachments/assets/2d1e73b8-99d6-4b22-b93b-7e7d2b1861c0)
+
+![image](https://github.com/user-attachments/assets/7a360b31-8497-471c-85af-4ef984ffea3b)
+
+
