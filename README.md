@@ -71,3 +71,16 @@
 
 # 📰 Tujuan Aplikasi Manajemen Artikel
 Aplikasi ini merupakan sistem berbasis web yang dibangun menggunakan CodeIgniter 4, dirancang untuk memudahkan pengguna dalam menyusun, mengatur, dan menampilkan konten artikel secara fleksibel. Aplikasi ini mendukung peran admin maupun pengguna biasa, dilengkapi dengan fitur-fitur seperti pengelolaan data (CRUD), pencarian, penyaringan artikel, serta REST API untuk integrasi dengan antarmuka modern berbasis JavaScript.
+
+# 🔧 Fitur-fitur Utama:
+### Home (User)
+### Artikel (User)
+### Artikel Detail (User)
+### Aboute (User)
+### kontak (User)
+### Login (Admin)
+### Artikel (Admin)
+### Tambah Artikel (Admin)
+### Edit Artikel (Admin)
+### Hapus Artikel (Admin)
+### VueJS APP
